@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Guru-Guna.github.io/Watchstop",
+  "homepage": "https://Guru-Guna.github.io/Watchstop1",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
